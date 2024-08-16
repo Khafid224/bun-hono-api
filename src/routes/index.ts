@@ -2,7 +2,7 @@
 import { Hono } from 'hono';
 
 //import controller
-import { getPosts, createPost, getPostById, updatePost } from '../controllers/PostController';
+import { getPosts, createPost, getPostById, updatePost, deletePost } from '../controllers/PostController';
 
 //inistialize router
 const router = new Hono()
@@ -18,5 +18,8 @@ router.get('/:id', (c) => getPostById(c));
 
 //route post update
 router.patch('/:id', (c) => updatePost(c));
+
+//route post delete
+router.delete('/:id', (c) => deletePost(c));
 
 export const Routes = router;
