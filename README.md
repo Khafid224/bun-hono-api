@@ -21,4 +21,8 @@ open http://localhost:3000
 ## uji coba menampilkan detail data
 ![image](https://github.com/user-attachments/assets/c2579595-8e84-4a85-b6dc-b19fee7b4b4b)
 
+## uji cona update data
+![image](https://github.com/user-attachments/assets/754d03cf-f443-4215-9929-ae7e514833d9)
+
+
 
