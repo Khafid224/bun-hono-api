@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 To install dependencies:
 ```sh
 bun install
@@ -16,4 +15,6 @@ open http://localhost:3000
 ## uji coba menampilkan list data
 ![image](https://github.com/user-attachments/assets/39a99e7f-8b14-4232-9437-1674662bffe4)
 
+## uji cona menampilkan insert data
+![image](https://github.com/user-attachments/assets/e6d05de8-4609-42d8-aa0f-c263401037d7)
 
